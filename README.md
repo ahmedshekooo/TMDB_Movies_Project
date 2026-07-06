@@ -1,3 +1,4 @@
+<!-- <i class="fa-solid fa-video"></i> -->
 # 🎬 TMDb Movies Data Analysis
 
 This project is a detailed exploratory data analysis (EDA) of a dataset from [The Movie Database (TMDb)](https://www.themoviedb.org/), aiming to extract insights about popular movies, revenue trends, genres, and other key factors.
